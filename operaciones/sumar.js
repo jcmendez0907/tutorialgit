@@ -1,3 +1,4 @@
 let a=100;
 let b=200;
-console.log('a+b = ', a+b);
+let c=300;
+console.log('a+b+c = ', a+b+c);
